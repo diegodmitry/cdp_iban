@@ -1,7 +1,7 @@
 # Project Title
 
-Project created to help the INA church
+Project created to help the CDP church
 
 ## Table of Contents
 
-- [IBAN - INA](#project-title)
+- [IBAN - CDP](#project-title)
