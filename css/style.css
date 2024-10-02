@@ -19,9 +19,11 @@ body {
   align-items: center;
 }
 
-/* img {
-  margin-top: 8rem;
-} */
+.logo_banco {
+  background-color: whitesmoke;
+  width: 20%;
+  margin-top: 1rem;
+}
 
 h1 {
   margin-top: 6rem;
@@ -38,9 +40,10 @@ p {
 @media only screen and (max-width: 600px) {
   /* Decrease size logo */
 
-  .logo_millennium {
-    margin-top: 7rem;
+  .logo_banco {
+    margin-top: 5rem;
     width: 50%;
+    background-color: whitesmoke;
   }
 
   h1 {
